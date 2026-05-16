@@ -7,7 +7,7 @@ const USUARIOS = [
   // ADMINISTRADORES
   { id: 1, usuario: "mauricio.rodriguez", password: "dir2026",  nombre: "Mauricio Rodríguez", puesto: "Director General",       avatar: "MR", rol: "admin",    activo: true },
   { id: 2, usuario: "stephanie.coria",    password: "ventas2026",  nombre: "Stephanie Coria",     puesto: "Ventas Estratégicas",   avatar: "SC", rol: "admin",    activo: true },
-  { id: 3, usuario: "tomas.delaoz",       password: "tomas2026",  nombre: "Tomás de la Oz",     puesto: "Director General",       avatar: "TO", rol: "admin",    activo: true },
+  { id: 3, usuario: "tomas.delahoz",      password: "tomas2026",  nombre: "Tomás de la Hoz",     puesto: "Director General",       avatar: "TO", rol: "admin",    activo: true },
   // EMPLEADOS
   { id: 4, usuario: "vanesa.flores",      password: "vanesa123",  nombre: "Vanesa Flores",       puesto: "Directora de Agencia",   avatar: "VF", rol: "empleado", activo: true },
   { id: 5, usuario: "maria.sanchez",      password: "maria789",  nombre: "María Sánchez",      puesto: "Ventas Estratégicas",   avatar: "MS", rol: "empleado", activo: true },
